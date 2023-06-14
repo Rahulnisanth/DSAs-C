@@ -1,3 +1,11 @@
+/* THE FIRST PROGRAM USING THE ARRAY ADT FOR BASIC {search, insert, delete, display}
+    1.SEARCH
+    2.DELETE
+    3.INSERT
+    4.DISPLAY
+USED METHODS : POINTERS AND STRUCTURES IN C LANGUAGE
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 100
@@ -83,7 +91,15 @@ int main(){
 
 
 
-//INSERTION ADT -->
+/* THE SECOND PROGRAM USING THE ARRAY ADT FOR BASIC INSERTION 
+    1.BEGINNING-INSERTION
+    2.ENDING-INSERTION
+    3.MIDDLE-INSERTION
+    4.DISPLAY
+USED METHODS : POINTERS AND STRUCTURES IN C LANGUAGE
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 100
@@ -143,7 +159,17 @@ int main(){
     return 0;
 }
 
-//DELETION ADT -->
+
+
+/* THE THIRD PROGRAM USING THE ARRAY ADT FOR BASIC DELETION
+    1.BEGINNING-DELETION
+    2.ENDING-DELETION
+    3.MIDDLE-DELETION
+    4.DISPLAY
+USED METHODS : POINTERS AND STRUCTURES IN C LANGUAGE
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 100
