@@ -5,7 +5,7 @@
     4.DISPLAY
 USED METHODS : POINTERS AND STRUCTURES IN C LANGUAGE
 */
-
+//1 -->>
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 100
@@ -99,7 +99,7 @@ int main(){
 USED METHODS : POINTERS AND STRUCTURES IN C LANGUAGE
 */
 
-
+//2 -->>
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 100
@@ -169,7 +169,7 @@ int main(){
 USED METHODS : POINTERS AND STRUCTURES IN C LANGUAGE
 */
 
-
+// 3 -->
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 100
