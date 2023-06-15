@@ -1,7 +1,5 @@
 # beginner_array_ADT
-  
-  ~ Array ADT- (Abstract Data Type).
-
+z
   ~ Beginner level Array ADT program in C.
   
   ~ Methods used : Structures and Pointer.
