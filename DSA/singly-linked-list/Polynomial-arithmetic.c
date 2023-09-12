@@ -8,7 +8,7 @@ struct node
     int coefficient;
     struct node *next;
 };
-
+// Enrollment module :
 void add(struct node **poly, int coefficient, int power)
 {
     struct node *new_node = malloc(sizeof(struct node));
@@ -29,7 +29,7 @@ void add(struct node **poly, int coefficient, int power)
     }
     temp->next = new_node;
 }
-
+// Nodes for the addition=>
 struct node *addition(struct node *poly1, struct node *poly2)
 {
     struct node *result = NULL;
@@ -66,6 +66,7 @@ struct node *addition(struct node *poly1, struct node *poly2)
 
     return result;
 }
+// Nodes for the subtraction=>
 struct node *subtraction(struct node *poly1, struct node *poly2)
 {
     struct node *result = NULL;
